@@ -31,7 +31,11 @@ namespace WTA
             app.Repl();
         }
 
-
-
+        [Test]
+        public void AtlantaWalkthoughTest()
+        {
+			app.Tap(x => x.Id("NameTextView").Index(1));
+			app.Tap("showLiveScoresButton");
+        }
     }
 }
