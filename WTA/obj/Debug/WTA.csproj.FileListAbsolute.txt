@@ -1,0 +1,10 @@
+/Users/junecho/Projects/WTA/WTA/bin/Debug/WTA.dll
+/Users/junecho/Projects/WTA/WTA/bin/Debug/WTA.pdb
+/Users/junecho/Projects/WTA/WTA/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/WTA/WTA/bin/Debug/Xamarin.UITest.dll
+/Users/junecho/Projects/WTA/WTA/bin/Debug/nunit.framework.xml
+/Users/junecho/Projects/WTA/WTA/bin/Debug/Xamarin.UITest.xml
+/Users/junecho/Projects/WTA/WTA/obj/Debug/WTA.csprojResolveAssemblyReference.cache
+/Users/junecho/Projects/WTA/WTA/obj/Debug/WTA.csproj.CoreCompileInputs.cache
+/Users/junecho/Projects/WTA/WTA/obj/Debug/WTA.dll
+/Users/junecho/Projects/WTA/WTA/obj/Debug/WTA.pdb
