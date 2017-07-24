@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{7DC94605-DFCA-411D-A2AE-8E5E997E2099}|Unit Tests">
   <MonoDevelop.Ide.ItemProperties.WTA PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WTA/AppInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WTA/Tests.cs">
     <Files>
-      <File FileName="WTA/AppInitializer.cs" Line="1" Column="1" />
+      <File FileName="WTA/AppInitializer.cs" Line="31" Column="33" />
+      <File FileName="WTA/Tests.cs" Line="31" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
