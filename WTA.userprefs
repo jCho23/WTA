@@ -3,8 +3,25 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="WTA/Tests.cs">
     <Files>
       <File FileName="WTA/AppInitializer.cs" Line="31" Column="33" />
-      <File FileName="WTA/Tests.cs" Line="30" Column="27" />
+      <File FileName="WTA/Tests.cs" Line="51" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WTA" expanded="True">
+            <Node name="WTA" expanded="True">
+              <Node name="WTA" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
