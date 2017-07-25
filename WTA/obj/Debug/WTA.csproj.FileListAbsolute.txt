@@ -7,4 +7,3 @@
 /Users/junecho/Projects/WTA/WTA/obj/Debug/WTA.csproj.CoreCompileInputs.cache
 /Users/junecho/Projects/WTA/WTA/obj/Debug/WTA.dll
 /Users/junecho/Projects/WTA/WTA/obj/Debug/WTA.pdb
-/Users/junecho/Projects/WTA/WTA/obj/Debug/WTA.csprojResolveAssemblyReference.cache
