@@ -43,7 +43,8 @@ namespace WTA
             app.Screenshot("Next we Tapped the 'Completed' Button");
             app.Tap("showScheduleButton");
             app.Screenshot("Then we Tapped the 'Schedule' Button");
-
+            app.Tap("showDrawsButton");
+            app.Screenshot("Last, we Tapped the 'Draws' Button");
 		}
     }
 }
