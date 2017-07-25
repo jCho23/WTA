@@ -41,6 +41,8 @@ namespace WTA
             app.Screenshot("We Tapped on the 'Live Score' Button");
             app.Tap("showCompletedMatchesButton");
             app.Screenshot("Next we Tapped the 'Completed' Button");
+            app.Tap("showScheduleButton");
+            app.Screenshot("Then we Tapped the 'Schedule' Button");
 
 		}
     }
