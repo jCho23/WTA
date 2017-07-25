@@ -38,7 +38,10 @@ namespace WTA
 			app.Tap(x => x.Id("NameTextView").Index(1));
             app.Screenshot("Let's start by Tapping on 'Atlanta'");
 			app.Tap("showLiveScoresButton");
-            app.Screenshot("We Tapped on the 'Live Score Button'");
-        }
+            app.Screenshot("We Tapped on the 'Live Score' Button");
+            app.Tap("showCompletedMatchesButton");
+            app.Screenshot("Next we Tapped the 'Completed' Button");
+
+		}
     }
 }
