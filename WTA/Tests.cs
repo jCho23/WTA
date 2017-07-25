@@ -32,7 +32,7 @@ namespace WTA
         }
 
         [Test]
-        public void AtlantaWalkthoughTest()
+        public void AtlantaWalkThroughTest()
         {
 			app.Tap(x => x.Id("NameTextView").Index(1));
 			app.Tap("showLiveScoresButton");
