@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="WTA/Tests.cs">
     <Files>
       <File FileName="WTA/AppInitializer.cs" Line="31" Column="33" />
-      <File FileName="WTA/Tests.cs" Line="22" Column="16" />
+      <File FileName="WTA/Tests.cs" Line="30" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
