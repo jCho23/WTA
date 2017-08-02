@@ -45,6 +45,11 @@ namespace WTA
             app.Screenshot("Then we Tapped the 'Schedule' Button");
             app.Tap("showDrawsButton");
             app.Screenshot("Last, we Tapped the 'Draws' Button");
+
+
+		
+			app.Tap("NameTextView");
+			app.Tap("DrawItem");
 		}
     }
 }
